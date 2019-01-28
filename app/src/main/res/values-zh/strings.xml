@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">下个闹钟时间</string>
+    <string name="no_alarm">🌴 无闹钟</string>
+    <string name="alarm_time">⏰ %1$s\n💤 %2$s</string>
+    <plurals name="x_days">
+        <item quantity="other">%d 天</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%d 小时</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%d 分钟</item>
+    </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NextAlarmTime</string>
+    <string name="no_alarm">🌴 No Alarm Clock</string>
+    <string name="alarm_time">⏰ %1$s\n💤 %2$s</string>
+    <plurals name="x_days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+</resources>
